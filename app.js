@@ -12,4 +12,3 @@ require('./7-mind-grenade');
 // exportsayHi(exportName.sharma)
 
 // console.log(data)
-// ji jh
