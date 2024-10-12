@@ -12,3 +12,4 @@ require('./7-mind-grenade');
 // exportsayHi(exportName.sharma)
 
 // console.log(data)
+require('./revision-1-7')
