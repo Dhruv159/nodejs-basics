@@ -7,3 +7,4 @@ function checkvalidatos() {
 
 checkvalidatos()
 // it is working
+// revisising all previous topic
